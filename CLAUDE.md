@@ -208,4 +208,56 @@
 
 ---
 
-*Discord Bot Template Project | Claude.code連携ガイド v1.0 | Created: 2025-07-25*
+## 📋 プロジェクト公開情報
+
+### **GitHubリポジトリ**
+- **URL**: https://github.com/Darari-nu/Discord-Bot-Template
+- **公開日**: 2025-07-27
+- **ライセンス**: MIT License（予定）
+- **ステータス**: 🟢 Public（一般公開中）
+
+### **リポジトリ構成**
+```
+Discord-Bot-Template/
+├── 📄 README.md              # プロジェクト全体説明
+├── 📄 CLAUDE.md              # Claude.code連携ガイド
+├── 📄 Log.md                 # 開発ログ
+│
+├── 📁 template/              # メインテンプレート
+│   ├── 📄 bot.py             # 動作するBot
+│   ├── 📄 requirements.txt   # 依存関係
+│   ├── 📄 .env.example       # 環境変数例
+│   ├── 📖 SETUP_GUIDE.md     # 30分完成ガイド
+│   ├── 🔧 DISCORD_SETUP.md   # Discord設定詳細
+│   ├── 🆘 TROUBLESHOOTING.md # 問題解決集
+│   └── 📄 README.md          # 使用ガイド
+│
+└── 📁 reference/             # 参考実装
+    └── ai-Darari-nu/         # 本格Bot実装
+```
+
+### **アクセス・利用方法**
+```bash
+# クローン
+git clone https://github.com/Darari-nu/Discord-Bot-Template.git
+
+# 使用開始
+cd Discord-Bot-Template/template/
+open SETUP_GUIDE.md  # 30分で完成ガイド
+```
+
+### **コミュニティ・サポート**
+- **Issue報告**: https://github.com/Darari-nu/Discord-Bot-Template/issues
+- **機能要望**: GitHub Issues
+- **質問・相談**: Claude.codeへ自然言語で
+- **貢献方法**: Pull Request歓迎
+
+### **プロジェクト指標**
+- **対象**: Discord Bot開発初心者〜上級者
+- **想定学習時間**: 30分（基本Bot完成）〜無限（機能拡張）
+- **サポート言語**: 日本語（主）、英語（将来対応予定）
+- **技術スタック**: Python 3.8+, discord.py, Claude.code
+
+---
+
+*Discord Bot Template Project | Claude.code連携ガイド v1.0 | Created: 2025-07-25 | Published: 2025-07-27*
