@@ -1,0 +1,12 @@
+# 画像生成プロンプトテンプレート
+
+## 基本コンセプト
+全ての画像は手作り粘土フィギュア質感で統一し、横窓からの自然光でレンダリングする
+
+## プロンプト構築テンプレート
+"{visual_elements} rendered as handmade clay figures with ultra-detailed textures, natural window lighting (5500K), high quality digital art, 16:10 aspect ratio"
+
+## 使用方法
+1. 1ツイート目から視覚的要素を抽出
+2. 上記テンプレートの{visual_elements}に代入
+3. 統一された質感とライティングで画像生成
